@@ -1,8 +1,5 @@
 # Neural Network with Backpropagation
 
- Student Information
-- **Name:** Hagar Ashraf El_Bialy
-- **ID:** 4231064
 
  Description
 This project implements a neural network with one hidden layer using the tanh activation function. It demonstrates both feed forward propagation and back propagation algorithms from scratch using NumPy.
@@ -31,4 +28,5 @@ This project implements a neural network with one hidden layer using the tanh ac
 ### Prerequisites
 ```bash
 pip install numpy
+
 
